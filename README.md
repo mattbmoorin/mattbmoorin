@@ -6,6 +6,6 @@
 
 - I am currently open to accepting work and internships. 
 
-- You can track the progression of my coding journey here. Please don't hesitate to contact me about anything code related :^B*
+- You can track the progression of my coding journey here. Please don't hesitate to contact me about anything code related :^B [^1]*
 
---- [connect with me on linkedin](https://linkedin.com/in/matthew-m-484241204/)
+[^1] [Connect with me on linkedin!](https://linkedin.com/in/matthew-m-484241204/)
