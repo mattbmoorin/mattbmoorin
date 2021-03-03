@@ -1,5 +1,5 @@
 
-
+☯︎
 # Hi there, I'm Matty...
 
 - *...I am currently learning my way around **JavaScript**, **Ruby**, **SonicPi**, **Rails**, **Solidity** and **C**.* 
