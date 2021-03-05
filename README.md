@@ -2,7 +2,7 @@
 ☯︎
 # Hi there, I'm Matty...
 
-- *...I am currently learning my way around **JavaScript**, **Ruby**, **SonicPi**, **Rails**, **Solidity** and **C**. (And of course many more things too (^_^= )* 
+- *...I am currently learning my way around **JavaScript**, **Ruby**, **SonicPi**, **Rails**, **Solidity** and **C**. (And of course many more things too (^_^= ))* 
 
 - ***I am open to accepting work and internships***. 
 
