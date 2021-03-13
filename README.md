@@ -10,5 +10,6 @@
 
 - *[Connect with me on linkedin](https://linkedin.com/in/matthew-m-484241204/)*
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbmoorin&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbmoorin&theme=tokyonight)
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbmoorin&show_icons=true&theme=tokyonight)
