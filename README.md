@@ -6,6 +6,8 @@
 
 - ***I am actively seeking mentors, jobs and/or internships***. 
 
+- *[Check out my blog](https://cosmicfuturisticcyberblog.netlify.app/)*
+
 - *[Get in touch](mailto:mbmoorin@mailfence.com)*
 
 - *[Connect with me on linkedin](https://linkedin.com/in/matthew-m-484241204/)*
