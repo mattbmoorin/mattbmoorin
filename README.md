@@ -6,7 +6,7 @@
 
 - *[Check out my blog](https://cosmicfuturisticcyberblog.netlify.app/)*
 
-- *[Get in touch](mailto:mbmoorin@mailfence.com)*
+- *[Get in touch](mailto:mattbmoorin@gmail.com)*
 
 - *[Connect with me on linkedin](https://www.linkedin.com/in/matthew-moorin-484241204/)*
 
