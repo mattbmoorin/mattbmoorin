@@ -10,6 +10,5 @@
 
 - *[Connect with me on linkedin](https://www.linkedin.com/in/matthew-moorin-484241204/)*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattbmoorin&theme=highcontrast)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mattbmoorin&show_icons=true&theme=highcontrast)
   
