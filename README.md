@@ -1,4 +1,4 @@
-#  ☯︎ Hi there, I'm Matty...
+#  ☯︎
 
 - *...programmer, problem solver and autodidact. Currently focused on **Web Development** with a strong desire to learn my way around **smart contracts/decentralized distributed networks**, **Audio Plugins/Software Instruments and C++/JUCE** and **C**.* 
 
